@@ -1,17 +1,18 @@
 {
   "name": "my-firstapp",
   "description": ",-----.,--.                  ,--. ,---.   ,--.,------.  ,------.     '  .--./|  | ,---. ,--.,--. ,-|  || o   \\  |  ||  .-.  \\ |  .---'     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \\  :|  `--,      '  '--'\\|  |' '-' ''  ''  '\\ `-' | .'  /   |  ||  '--'  /|  `---.      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'     -----------------------------------------------------------------",
-  "main": "index.js",
+  "main": "server.js",
   "authors": [
     "Vy Vu <51204653@hcmut.edu.vn>"
   ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/Alone2016/my-frist-app",
   "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
+    "public/libs",
     "test",
     "tests"
   ]
