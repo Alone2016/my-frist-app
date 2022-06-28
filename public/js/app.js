@@ -10,3 +10,5 @@ var app = angular.module('Mean', [
  'postCtrl',
  'postService'
 ]);
+
+console.log('aaa')
